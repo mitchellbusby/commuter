@@ -1,0 +1,12 @@
+{
+  "name": "commuter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mitchellbusby",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "opaler": "^1.2.1"
+  }
+}
