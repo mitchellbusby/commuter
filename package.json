@@ -7,6 +7,11 @@
   "private": true,
   "dependencies": {
     "dotenv": "^7.0.0",
+    "esm": "^3.2.22",
+    "luxon": "^1.12.1",
     "opaler": "^1.2.1"
+  },
+  "scripts": {
+    "start": "node -r esm index.js"
   }
 }
